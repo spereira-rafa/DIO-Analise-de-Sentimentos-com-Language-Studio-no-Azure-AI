@@ -18,4 +18,6 @@ Cada sentimento recebe uma pontuação (de 0 a 1) indicando o grau de confiança
 Análise em Nível de Frase e Documento
 O modelo pode fornecer uma avaliação geral do texto ou analisar sentimentos frase por frase.
 
+Material de apoio:
+https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html
  
